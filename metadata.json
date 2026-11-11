@@ -1,0 +1,8 @@
+{
+  "name": "Remix تحدي الطبق الصحي",
+  "description": "لعبة تفاعلية تعليمية للسبورة الذكية للتنافس بين فريقين في تركيب أطباق غذائية صحية ومتوازنة وفق معايير التغذية السليمة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
